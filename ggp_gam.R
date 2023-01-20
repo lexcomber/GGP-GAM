@@ -82,7 +82,10 @@ if (.Platform$GUI == "AQUA") {
 plot_grid(p1, p2, p3, NULL, legend_betas, NULL, nrow = 2, ncol = 3, rel_heights = c(1, 0.2))
 
 ## 4. Create simulated data in the manner of Fotheringham et al 2017 Part II
-# x1 and x2 were generated randomly from a normal distribution N(0,1) # error term was generated from a normal distributed E~ N(0, 0.5^2) # variable y was computed# done 100 times
+# x1 and x2 were generated randomly from a normal distribution N(0,1)
+# error term was generated from a normal distributed E~ N(0, 0.5^2)
+# variable y was computed
+# done 100 times
 
 MakeSim = F
 if(MakeSim) {
