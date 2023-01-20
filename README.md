@@ -3,8 +3,8 @@
 Alexis Comber<sup>1*</sup> Paul Harris<sup>2</sup> and Chris Brunsdon<sup>3</sup> 
 
 <sup>1</sup> School of Geography, University of Leeds, Leeds, UK.\
-<sup>2</sup> Sustainable Agriculture Sciences North Wyke, Rothamsted Research, Okehampton, UK.
-<sup>2</sup> National Centre for Geocomputation, Maynooth University, Ireland
+<sup>2</sup> Sustainable Agriculture Sciences North Wyke, Rothamsted Research, Okehampton, UK.\
+<sup>3</sup> National Centre for Geocomputation, Maynooth University, Ireland.\
 <sup>*</sup> contact author: a.comber@leeds.ac.uk
 
 ## Abstract
