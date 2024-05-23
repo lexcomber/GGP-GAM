@@ -13,7 +13,7 @@ This paper proposes a novel spatially varying coefficient (SVC) regression throu
 This paper has been submitted to IJGIS.
 
 ## Code
-To run the analysis in this paper you should download the the R script `gam_gpp.R`the 2 data files (`sim1_fullpaper.RData` and `simulation_result_fullpaper.RData`) and install the packages. Package and other info is below. The data files and supporting scripts will need will need to be locally available . The code recreates the results as the same sequence in the paper. 
+To run the analysis in this paper you should download the the R script `gam_gpp.R`the 2 data files (`sim1_fullpaper.RData` and `simulation_result_fullpaper.RData`) and install the packages. Package and other info is below. The data files and supporting scripts will need will need to be locally available . The code recreates the results in the same sequence as the paper. 
 
 If you have any problems with data / code / versions etc please contact Lex Comber at the email above.
 
